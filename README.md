@@ -1,7 +1,6 @@
 <!-- 
 🎨 CUSTOMIZATION GUIDE:
-1. Replace "Artcapella" with your GitHub username throughout this file
-2. Update social media links (LinkedIn, Email, Portfolio, Medium) with your actual profiles
+2. Update social media links (Portfolio, Medium) with your actual profiles
 3. Customize the "Hi there" and "About Me" sections with your real experience and interests
 4. Update the Featured Projects section with your actual repository names
 5. Adjust the tools and technologies badges to match your skillset
@@ -24,8 +23,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/henry-dunn-ds/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:caydedunn@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
   <a href="https://medium.com/@yourprofile"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
@@ -43,11 +42,31 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with a str
 - 🤝 I'm looking to collaborate on **Open-source AI projects**, **Kaggle competitions**, and **Cutting-edge ML research**
 - 💡 I'm interested in **Generative AI**, **LLMs**, **MLOps**, and **Scalable Data Engineering**
 - 💬 Ask me about **Python**, **PyTorch**, **TensorFlow**, **Data Engineering**, **AWS/GCP**, and **Production ML**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **caydedunn@gmail.com**
 - 🎯 Goals: Contribute to impactful AI projects and continue advancing in ML research
-- ⚡ Fun fact: I love solving complex optimization problems and participating in data science competitions!
+- ⚡ Fun fact: I love solving complex optimization problems and creating solutions to problems literally no one has but me for fun
 
 ---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
 
 ## 🚀 About Me
 
@@ -55,8 +74,8 @@ I am a results-driven **Data Scientist** with expertise in designing, implementi
 
 🎓 **Background:**
 - Strong foundation in Computer Science, Statistics, and Mathematics
-- Advanced knowledge in Machine Learning, Deep Learning, and AI algorithms
-- Experience with production ML systems and MLOps practices
+- Advanced knowledge in AI Safety Measures
+- 4+ years of experience in lab data management
 
 💼 **Professional Experience:**
 - Developed and deployed end-to-end ML pipelines serving millions of users
