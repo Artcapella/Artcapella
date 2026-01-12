@@ -1,3 +1,12 @@
+<!-- 
+🎨 CUSTOMIZATION GUIDE:
+1. Replace "Artcapella" with your GitHub username throughout this file
+2. Update social media links (LinkedIn, Email, Portfolio, Medium) with your actual profiles
+3. Customize the "Hi there" and "About Me" sections with your real experience and interests
+4. Update the Featured Projects section with your actual repository names
+5. Adjust the tools and technologies badges to match your skillset
+-->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Data+Scientist+%7C+ML+Engineer+%7C+AI+Researcher;Building+Intelligent+Systems+at+Scale;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 </div>
@@ -35,7 +44,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with a str
 - 💡 I'm interested in **Generative AI**, **LLMs**, **MLOps**, and **Scalable Data Engineering**
 - 💬 Ask me about **Python**, **PyTorch**, **TensorFlow**, **Data Engineering**, **AWS/GCP**, and **Production ML**
 - 📫 How to reach me: **your.email@example.com**
-- 🎯 2024 Goals: Contribute to impactful AI projects and continue advancing in ML research
+- 🎯 Goals: Contribute to impactful AI projects and continue advancing in ML research
 - ⚡ Fun fact: I love solving complex optimization problems and participating in data science competitions!
 
 ---
