@@ -48,7 +48,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with a str
 - 🤝 I'm looking to collaborate on **Open-source AI projects**, **Kaggle competitions**, and **Cutting-edge ML research**
 - 💡 I'm interested in **Generative AI**, **LLMs**, **MLOps**, and **Scalable Data Engineering**
 - 💬 Ask me about **Python**, **PyTorch**, **TensorFlow**, **Data Engineering**, **AWS/GCP**, and **Production ML**
-- 📫 How to reach me: **caydedunn@gmail.com**
+- 📫 How to reach me: **arluenPC@gmail.com**
 - 🎯 Goals: Contribute to impactful AI projects and continue advancing in ML research
 - ⚡ Fun fact: I love solving complex optimization problems and creating solutions to problems literally no one has but me for fun
 
